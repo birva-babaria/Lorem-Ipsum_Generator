@@ -41,3 +41,13 @@
     outline: none;
     border-radius: 0.5em;
 }
+
+#paragraph{
+    text-align: justify;
+    color: black;
+    line-height: 1.8em;
+    width: 60em;
+    position: relative;
+    margin: auto;
+}
+
